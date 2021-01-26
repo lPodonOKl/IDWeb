@@ -1,1 +1,2 @@
 conflict file from master
+conflict from conflict branch
